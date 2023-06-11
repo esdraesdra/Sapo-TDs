@@ -1,7 +1,13 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-scribble("buttonStop_isActivated:"+string(buttonStop_isActivated)).draw(0,0);
-scribble("buttonX2_isActivated:"+string(buttonX2_isActivated)).draw(0,20);
+scribble(fps).draw(0,0);
+scribble(fps_real).draw(0,10);
+
 scribble("hp:"+string(hp)).draw(0,40);
+scribble("actualRound:"+string(actualRound)).draw(0,60);
+scribble("endRound:"+string(endRound)).draw(0,80);
+
+
+
 

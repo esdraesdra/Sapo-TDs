@@ -16,6 +16,15 @@ if buttonStop_isActivated{
 		px = path_get_point_x(Path1,i)
 		py = path_get_point_y(Path1,i)
 	
-		path_change_point(Path1,i,px,py,100)
+		path_change_point(Path1,i,px,py,normalSpeed)
+	}
+}
+
+//fazer ele parar de criar inimigos qnd estiver pausado
+if instance_exists(oEnemy_1){//ARRUMAR PRA TODOS OS INIMIGOS
+	if buttonStop_isActivated{
+		time_source_pause(_newWave)
+	}else{
+		time_source_resume(_newWave)
 	}
 }

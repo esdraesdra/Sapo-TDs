@@ -1,7 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-//qnd ative troca a velocidade dos pontos pra 350
+//qnd ative troca a velocidade dos pontos pro dobro
 if buttonX2_isActivated{
 	image_index=1;
 	if !buttonStop_isActivated{
@@ -9,7 +9,7 @@ if buttonX2_isActivated{
 		px = path_get_point_x(Path1,i)
 		py = path_get_point_y(Path1,i)
 	
-		path_change_point(Path1,i,px,py,300)	
+		path_change_point(Path1,i,px,py,x2Speed)	
 		}
 	}
 }else{
