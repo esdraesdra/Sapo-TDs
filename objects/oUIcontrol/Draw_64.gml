@@ -3,6 +3,8 @@
 
 scribble(fps).draw(0,0);
 scribble(fps_real).draw(0,10);
+scribble("roundActive:"+string(roundActive)).draw(0,20);
+
 
 scribble("hp:"+string(hp)).draw(0,40);
 scribble("actualRound:"+string(actualRound)).draw(0,60);

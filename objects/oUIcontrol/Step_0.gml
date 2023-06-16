@@ -5,7 +5,12 @@ game_set_speed(60,gamespeed_fps)
 
 if keyboard_check_pressed(ord("R")){ game_restart();}
 
-if keyboard_check_pressed(vk_escape){ 
-	newWave(oEnemy_1,4,6);
-};
+if !buttonStop_isActivated and !roundActive{ 
+	roundActive=true;
+	checkRounds();
+}
+/*
+if roundActive=true{
+	if (!instance_exists(oEnemy_1)){roundActive=false}
+}
 

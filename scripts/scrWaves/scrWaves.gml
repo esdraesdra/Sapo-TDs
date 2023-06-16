@@ -25,11 +25,14 @@ function newWave(enemyType, enemyCount,enemyTimeBetween){
 	}
 }
 
-/// @function					checkRounds();
-/// @description				checar o round atual e spawnar as waves
-
 function checkRounds(){
-
 	
-	
+		switch (actualRound) {
+	    case 1:
+	        newWave(oEnemy_1,5,6);
+	        break;
+	    default:
+	        // code here
+	        break;
+	}
 }

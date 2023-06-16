@@ -31,9 +31,12 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sButton_X2",
-    "path": "sprites/sButton_X2/sButton_X2.yy",
+    "name": "sButton_x2",
+    "path": "sprites/sButton_x2/sButton_x2.yy",
   },
-  "spriteMaskId": null,
+  "spriteMaskId": {
+    "name": "sButton_x2",
+    "path": "sprites/sButton_x2/sButton_x2.yy",
+  },
   "visible": true,
 }

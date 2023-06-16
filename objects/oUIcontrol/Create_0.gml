@@ -11,10 +11,13 @@ globalvar hp;
 hp = 50;
 
 globalvar actualRound;
-actualRound = 0;
+actualRound = 1;
 
 globalvar endRound;
 endRound = 20;
+
+globalvar roundActive;
+roundActive=false;
 
 globalvar normalSpeed;
 normalSpeed = 100;
