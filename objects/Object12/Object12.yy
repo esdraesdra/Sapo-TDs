@@ -1,13 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "oTowersShop",
+  "name": "Object12",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "inGame_Buttons",
-    "path": "folders/UI/inGame_Buttons.yy",
+    "name": "Save Slots",
+    "path": "folders/UI/StartMenu_Buttons/Save Slots.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -25,10 +25,7 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": {
-    "name": "sTSbackground",
-    "path": "sprites/sTSbackground/sTSbackground.yy",
-  },
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": true,
 }

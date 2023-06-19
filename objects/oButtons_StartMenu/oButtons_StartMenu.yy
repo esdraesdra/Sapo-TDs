@@ -1,13 +1,15 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "oTowersShop",
-  "eventList": [],
+  "name": "oButtons_StartMenu",
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
+  ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "inGame_Buttons",
-    "path": "folders/UI/inGame_Buttons.yy",
+    "name": "StartMenu_Buttons",
+    "path": "folders/UI/StartMenu_Buttons.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -25,10 +27,7 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": {
-    "name": "sTSbackground",
-    "path": "sprites/sTSbackground/sTSbackground.yy",
-  },
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": true,
 }

@@ -1,0 +1,18 @@
+Menu do inicio
+
+Todo:
+- UI dos Saves Slots
+- UX dos Saves Slots
+- Fazer o Código do botão de Options
+- Fazer uma transição pra troca de telas
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+Feitos:
+
+- Fazer o Código do botão de Sair
+- Alinhar botões vertical;
+- Fazer Background Nine Slice;
+- Dar display do texto;
+- Escolher uma fonte boa;
+- Fazer um tween pra quando o mouse estiver sobre o botão
+

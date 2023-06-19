@@ -1,18 +1,18 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "oButton_x2",
+  "name": "oButtons_Play",
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":64,"eventType":8,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":10,"eventType":6,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":11,"eventType":6,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "inGame_Buttons",
-    "path": "folders/UI/inGame_Buttons.yy",
+    "name": "StartMenu_Buttons",
+    "path": "folders/UI/StartMenu_Buttons.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -29,14 +29,11 @@
   "physicsShapePoints": [],
   "physicsStartAwake": true,
   "properties": [],
-  "solid": false,
+  "solid": true,
   "spriteId": {
-    "name": "sButton_x2",
-    "path": "sprites/sButton_x2/sButton_x2.yy",
+    "name": "sButtonsBackground",
+    "path": "sprites/sButtonsBackground/sButtonsBackground.yy",
   },
-  "spriteMaskId": {
-    "name": "sButton_x2",
-    "path": "sprites/sButton_x2/sButton_x2.yy",
-  },
+  "spriteMaskId": null,
   "visible": true,
 }

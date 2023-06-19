@@ -11,8 +11,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Buttons",
-    "path": "folders/UI/Buttons.yy",
+    "name": "inGame_Buttons",
+    "path": "folders/UI/inGame_Buttons.yy",
   },
   "parentObjectId": null,
   "persistent": false,
