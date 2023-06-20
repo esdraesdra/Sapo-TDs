@@ -32,7 +32,7 @@
   "origin": 0,
   "parent": {
     "name": "sprites buttons",
-    "path": "folders/UI/inGame_Buttons/sprites buttons.yy",
+    "path": "folders/Levels/ingame UI/inGame_Buttons/sprites buttons.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

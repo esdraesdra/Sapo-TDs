@@ -11,8 +11,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "StartMenu_Buttons",
-    "path": "folders/UI/StartMenu_Buttons.yy",
+    "name": "Play Button",
+    "path": "folders/StartMenu/StartMenu_Buttons/Play Button.yy",
   },
   "parentObjectId": null,
   "persistent": false,

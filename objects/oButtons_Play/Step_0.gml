@@ -1,7 +1,7 @@
-/// @description Insert description here
+/// @description Animação ao passar o mouse encima
 
 percent += 1/60;
-if (percent >1) percent -= 1;
+//if (percent >1) percent -= 1;
 
 if position_meeting(device_mouse_x_to_gui(0) ,device_mouse_y_to_gui(0),self){
 	mouse_enter = true;
@@ -26,3 +26,4 @@ if mouse_enter=true{
 	image_yscale=1
 	percent = 0;
 }
+

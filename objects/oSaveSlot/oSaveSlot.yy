@@ -1,13 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Object12",
+  "name": "oSaveSlot",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
     "name": "Save Slots",
-    "path": "folders/UI/StartMenu_Buttons/Save Slots.yy",
+    "path": "folders/StartMenu/StartMenu_Buttons/Play Button/Save Slots.yy",
   },
   "parentObjectId": null,
   "persistent": false,

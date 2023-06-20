@@ -2128,8 +2128,8 @@
   "last": 0,
   "maintainGms1Font": false,
   "parent": {
-    "name": "Fonts",
-    "path": "folders/Fonts.yy",
+    "name": "Assets Gerais",
+    "path": "folders/StartMenu/StartMenu_Buttons/Assets Gerais.yy",
   },
   "pointRounding": 0,
   "ranges": [

@@ -12,7 +12,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "inGame_Buttons",
-    "path": "folders/UI/inGame_Buttons.yy",
+    "path": "folders/Levels/ingame UI/inGame_Buttons.yy",
   },
   "parentObjectId": null,
   "persistent": false,

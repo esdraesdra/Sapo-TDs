@@ -52,7 +52,7 @@
   "origin": 4,
   "parent": {
     "name": "StartMenu_sprites",
-    "path": "folders/UI/StartMenu_Buttons/StartMenu_sprites.yy",
+    "path": "folders/StartMenu/StartMenu_Buttons/StartMenu_sprites.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

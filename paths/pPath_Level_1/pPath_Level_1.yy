@@ -1,12 +1,12 @@
 {
   "resourceType": "GMPath",
   "resourceVersion": "1.0",
-  "name": "Path1",
+  "name": "pPath_Level_1",
   "closed": false,
   "kind": 0,
   "parent": {
-    "name": "Paths",
-    "path": "folders/Paths.yy",
+    "name": "Level 1",
+    "path": "folders/Levels/Level 1.yy",
   },
   "points": [
     {"speed":100.0,"x":0.0,"y":128.0,},

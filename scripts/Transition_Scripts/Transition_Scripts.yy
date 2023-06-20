@@ -1,11 +1,11 @@
 {
   "resourceType": "GMScript",
   "resourceVersion": "1.0",
-  "name": "__scr_outline",
+  "name": "Transition_Scripts",
   "isCompatibility": false,
   "isDnD": false,
   "parent": {
-    "name": "Outline System",
-    "path": "folders/Outline System.yy",
+    "name": "Gerais",
+    "path": "folders/Gerais.yy",
   },
 }
